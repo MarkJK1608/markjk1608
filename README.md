@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there 👋
+I'm Mark, a Platform Engineer based in the Netherlands.
 
-<!--
-**MarkJK1608/markjk1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on cloud native infrastructure on Microsoft Azure — Kubernetes (AKS), Infrastructure as Code with Bicep and Terraform, and CI/CD pipelines through Azure DevOps. My focus is on building reliable, automated platforms that make life easier for development teams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Tech
+
+- **Cloud:** Microsoft Azure, Cloud Native
+- **Containers & Orchestration:** Kubernetes, Azure Kubernetes Service (AKS), Docker
+- **Infrastructure as Code:** Bicep, Terraform, IaC
+- **CI/CD & Automation:** Azure DevOps, CI/CD, Git, Bash, PowerShell
+
+---
+
+### A Bit About Me
+
+- ☁️ Living in Azure most days
+- 🖥️ I like automating things I've done twice
+- 🛠️ I like building things that are simple, reliable, and easy to maintain
+- 📦 Fan of clean, reproducible infra
